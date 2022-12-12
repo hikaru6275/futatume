@@ -1,0 +1,36 @@
+# futatume
+li {
+  list-style: none;
+}
+
+.header-logo {
+  float: left;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+.footer-logo {
+  float: left;
+}
+
+.footer-list {
+  float: right;
+}
+
+span {
+  color: red;
+}
+
+.contents h3 {
+  border-bottom: 2px solid blue;
+  padding: 20px;
+  margin-top: 13px;
+}
+
+input, textarea {
+  border-top: 1px solid green;
+}
